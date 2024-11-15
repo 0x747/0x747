@@ -1,6 +1,6 @@
 # /0x747/README.md 
 
-![Wallpaper](./assets/room.gif)
+<img src="./assets/room.gif" width="500" height="281">
 
 ---
 
